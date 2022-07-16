@@ -5,7 +5,7 @@
 </p>
 
 <ul>
-Мой стэк
+<h4>Мой стэк</h4>
   <li>MongoDB</li>
   <li>ExpressJS</li>
   <li>React</li>
