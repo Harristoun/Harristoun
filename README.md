@@ -17,3 +17,6 @@
   <li>Webpack</li>
   <li>Mongoose</li>
 </ul>
+
+<h2>Участие в проектах</h2>
+</hr>
