@@ -5,6 +5,7 @@
 </p>
 
 <ul>
+<li>fullstack разработчик</li>
   <li>MongoDB</li>
   <li>ExpressJS</li>
   <li>React</li>
