@@ -5,7 +5,7 @@
 </p>
 
 <ul>
-<li>fullstack разработчик</li>
+Мой стэк
   <li>MongoDB</li>
   <li>ExpressJS</li>
   <li>React</li>
