@@ -11,6 +11,7 @@
     <li><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png" alt="photoReact" /></li>
       <li><img src="https://cdn0.iconfinder.com/data/icons/logos-21/40/CSS3-256.png" alt="photoReact" /></li>
         <li><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" /></li>
+          <li><img src="https://external-preview.redd.it/TjOuftRjFMwi1skRP9HXZgFn_uvUX8fY6RwitIuG5ng.jpg?auto=webp&s=8ffb36d843813ac671acc88ac3507352f779c8ad" alt="photoJs" /></li>
   <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React router dom v6</li>
   <li>MongoDB</li>
