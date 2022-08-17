@@ -13,7 +13,7 @@
         <li><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" /></li>
           <li><img src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" /></li>
             <li><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" /></li>
-              <li><img src="https://mpng.subpng.com/20180614/twf/kisspng-node-js-javascript-express-js-mongodb-github-node-js-5b224f65cc4628.8571491215289752058367.jpg" alt="photoJs" /></li>
+              <li><img src="https://img2.freepng.ru/20180622/uv/kisspng-node-js-express-js-javascript-redis-mean-node-js-5b2d0123ca95c5.3187062015296760678298.jpg" alt="photoJs" /></li>
               <li><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" /></li>
   <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React router dom v6</li>
