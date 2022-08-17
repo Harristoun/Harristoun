@@ -5,7 +5,8 @@
 
 <ul>
 <h3>Мой стэк</h3>
-  <li>Redux, Redux Toolkit</li>
+  <li>NextJs</li>
+  <li>React, Redux Toolkit</li>
   <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React router dom v6</li>
   <li>MongoDB</li>
