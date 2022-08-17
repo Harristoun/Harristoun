@@ -11,7 +11,7 @@
     <li><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png" alt="photoReact" /></li>
       <li><img src="https://cdn0.iconfinder.com/data/icons/logos-21/40/CSS3-256.png" alt="photoReact" /></li>
         <li><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" /></li>
-          <li><img src="https://images.velog.io/images/peacesong/post/014ab7fd-d73e-4897-a5ee-71142ee5d346/reactrouter.png" alt="photoJs" /></li>
+          <li><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TIZ0kUOW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://reacttraining.com/images/blog/reach-react-router-future.png" alt="photoJs" /></li>
   <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React router dom v6</li>
   <li>MongoDB</li>
