@@ -14,7 +14,7 @@
           <li><img src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" /></li>
             <li><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" /></li>
               <li><img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" /></li>
-              <li><img src="https://img.favpng.com/20/9/1/node-js-javascript-clip-art-express-js-computer-icons-png-favpng-kyegUng1CTEdPrzkZAuc6Dhbr.jpg" alt="photoJs" /></li>
+              <li><img src="https://w7.pngwing.com/pngs/416/280/png-transparent-node-js-express-js-javascript-redis-mean-node-js-angle-text-service-thumbnail.png" alt="photoJs" /></li>
   <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React router dom v6</li>
   <li>MongoDB</li>
