@@ -5,7 +5,7 @@
 
 <ul>
 <h3>Мой стэк</h3>
-  <img src="[[[https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png](https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-256.png)](https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png)](https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png)" alt="photoNextJs">NextJs/>
+  <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png">NextJs/>
   <li>React, Redux Toolkit</li>
   <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React router dom v6</li>
