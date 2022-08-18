@@ -14,7 +14,7 @@
   <img  width=4% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
 <img width=4% src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
   <img width=4%  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
-  <img width=4% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png"/>
+  <img width=4% src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png"/>
      <img width=4% src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="photoJs" />
    <img width=4% src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
      <img width=4% src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" alt="photoJs" />
