@@ -19,15 +19,13 @@
 
   <img width=4%  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
   <img width=4% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png"/>
-
-
- 
-         
- <img width=4% src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
-
-  <img  width=4% src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
-     <img width=8% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
+     <img width=4% src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="photoJs" />
    <img width=4% src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
+     <img width=4% src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" alt="photoJs" />
+      <img width=4% src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
+  <img width=4% src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
+  <img  width=4% src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
+
  
 
              
@@ -47,6 +45,7 @@
   <li>DOM</li>
   <li>Webpack</li>
   <hr>
+  <h1>GitHub Stats:</h1>
 
 
 
