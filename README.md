@@ -14,7 +14,7 @@
 
   <img width=4%  src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="photoReact" />
 
- <img width=4% src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/HTML5-256.png" alt="photoReact" />
+ <img width=4% src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png" />
  <img width=4% margin-top=5% src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/css3-alt-256.png" alt="photoReact" />
   <img  width=4% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
          
