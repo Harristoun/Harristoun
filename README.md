@@ -16,8 +16,8 @@
  <img width=8% src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/HTML5-256.png" alt="photoReact" />
  <img width=8% margin-top=5% src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/css3-alt-256.png" alt="photoReact" />
   <img  width=8% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
-          <img width=12% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
- <img width=8% src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" />
+          <img width=13% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
+ <img width=13% src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" />
 
   <img  width=8% src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" />
               <img  width=8% src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="photoJs" />
