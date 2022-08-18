@@ -25,15 +25,19 @@
    <img width=8% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
 </div>
 </hr>
-
+  <li>Next.Js</li>
+  <li>React</li>
+  <li>React Redux</li>
   <li>HTML5, CSS3, JavaScript ES6</li>
-  <li>React router dom v6</li>
+
   <li>MongoDB</li>
-  <li>ExpressJS</li>
   <li>NodeJS</li>
+  <li>ExpressJS</li>
+  <li>Mongoose</li>
+  <li>React router dom v6</li>
   <li>DOM</li>
   <li>Webpack</li>
-  <li>Mongoose</li>
+
 </ul>
 
 <h2>Участие в проектах</h2>
