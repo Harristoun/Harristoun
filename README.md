@@ -16,12 +16,12 @@
 <div align=center> <img width=7% src="https://cdn0.iconfinder.com/data/icons/logos-21/40/CSS3-256.png" alt="photoReact" />
   <img  width=8% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
           <img width=12% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
- <img width=6% src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" /></div>
+ <img width=6% src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" />
 
   <img  width=8% src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" />
               <img  width=9% src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="photoJs" />
               <img width=8% src="https://camo.githubusercontent.com/7c669e872b214571ae0b5097e8d3db369225a806dc2ce9a436cde3497164310c/687474703a2f2f6d6f6e676f64622d746f6f6c732e636f6d2f696d672f6d6f6e676f6f73652e706e67" alt="photoJs" />
-
+</div>
 
   <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React router dom v6</li>
