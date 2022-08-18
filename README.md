@@ -45,7 +45,7 @@
         <img  width=4% src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo.png" />
 </div>
 <p />
-  <li>TypeScript</li>
+  <li><b>Priority: </b> TypeScript</li>
   <li>Vue.js</li>
   <li>Bootstrap</li>
 
@@ -54,9 +54,9 @@
   <h1>GitHub Stats:</h1>
 
 
-<h2>Участие в проектах</h2>
+<h2>Participation in projects</h2>
 </hr>
-<h3>Скоро...</h3>
+<h3>Soon...</h3>
 
 <h2>Coonect with me:</h2>
 <a href="https://t.me/Abu_Harris"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
