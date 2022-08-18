@@ -13,8 +13,7 @@
 
   <img width=8%  src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="photoReact" />
 
- <img width=8% src="![image](https://user-images.githubusercontent.com/96658080/185398675-ceeca82f-3bbf-488a-b082-cc7f13350d3f.png)
-" alt="photoReact" />
+ <img width=8% src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png" alt="photoReact" />
  <img width=8% margin-top=5% src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/css3-alt-256.png" alt="photoReact" />
   <img  width=8% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
           <img width=8% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
