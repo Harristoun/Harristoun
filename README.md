@@ -1,4 +1,4 @@
-<h1>Hello! My name is Khamzat and I am a front-end developer🌱</h1>
+<h1 align=center>Hello! My name is Khamzat and I am a front-end developer🌱</h1>
   
   <p>My first steps→ 
 </p>
