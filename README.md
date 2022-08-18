@@ -23,7 +23,7 @@
 
  
          
- <img width=4% src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-256.png" alt="photoJs" />
+ <img width=4% src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
 
   <img  width=4% src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" />
      <img width=8% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
