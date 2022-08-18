@@ -1,6 +1,6 @@
 <h1 aligt>Hello! My name is Khamzat and I am a front-end developer🌱</h1>
   
-  <h2>My first steps→</h2>
+  <h2>My first steps →</h2>
   <br />
 
 
