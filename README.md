@@ -20,8 +20,8 @@
  <img width=4% src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-256.png" alt="photoJs" />
 
   <img  width=4% src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" />
-              <img  width=4% src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="photoJs" />
-              <img width=4% src="https://camo.githubusercontent.com/7c669e872b214571ae0b5097e8d3db369225a806dc2ce9a436cde3497164310c/687474703a2f2f6d6f6e676f64622d746f6f6c732e636f6d2f696d672f6d6f6e676f6f73652e706e67" alt="photoJs" />
+              <img  width=10% src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="photoJs" />
+              <img width=10% src="https://camo.githubusercontent.com/7c669e872b214571ae0b5097e8d3db369225a806dc2ce9a436cde3497164310c/687474703a2f2f6d6f6e676f64622d746f6f6c732e636f6d2f696d672f6d6f6e676f6f73652e706e67" alt="photoJs" />
 </div>
 </hr>
 
