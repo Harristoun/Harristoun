@@ -24,8 +24,7 @@
   <img  width=4% src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" />
      <img width=8% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
    <img width=4% src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/webpack-256.png" alt="photoJs" />
-     <img width=4% src=" https://jquery-plugins.net/image/plugin/dom-to-image-generate-image-from-dom-with-html5-canvas.png
-" alt="photoJs" />
+
              
  
     
