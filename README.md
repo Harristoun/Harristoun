@@ -53,5 +53,5 @@
 </hr>
 <h3>Скоро...</h3>
 
-<h2>Связь со мной</h2>
-<h3>Скоро...</h3>
+<h2>Coonect with me:</h2>
+<a href="https://t.me/Abu_Harris"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
