@@ -45,7 +45,7 @@
         <img  width=4% src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo.png" />
 </div>
 <p />
-  <li><b>Priority: </b> TypeScript</li>
+  <li><b>Priority ⇢ </b> TypeScript</li>
   <li>Vue.js</li>
   <li>Bootstrap</li>
 
