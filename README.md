@@ -5,6 +5,7 @@
 
 
 <h3>Мой стэк</h3>
+<hr />
 <div>
 
   <img width=4% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png"/>
