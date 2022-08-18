@@ -6,31 +6,36 @@
 
 
 <h3>My stack:</h3>
-</hr>
-<div>
 
-  <img width=4% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png"/>
+<div>
+ 
+  <img width=4% src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
+ <img width=4% src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="photoReact" />
+  <img  width=4% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
+
+ 
 
 <img width=4% src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
 
-  <img width=4%  src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="photoReact" />
+  <img width=4%  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
+  <img width=4% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png"/>
 
- <img width=4% src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
- <img width=4% src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="photoReact" />
-  <img  width=4% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
+
+ 
          
  <img width=4% src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-256.png" alt="photoJs" />
 
   <img  width=4% src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" />
      <img width=8% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
-   <img width=4% src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/webpack-256.png" alt="photoJs" />
+   <img width=4% src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
+ 
 
              
  
     
 </div>
 
-</hr>
+<hr>
   <li>Next.Js</li>
   <li>React</li>
   <li>React Redux</li>
@@ -41,8 +46,9 @@
   <li>React router dom v6</li>
   <li>DOM</li>
   <li>Webpack</li>
+  <hr>
 
-</ul>
+
 
 <h2>Участие в проектах</h2>
 </hr>
