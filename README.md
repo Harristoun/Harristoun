@@ -4,7 +4,7 @@
 
 <ul>
 <h3>Мой стэк</h3>
-  <img width=50% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png">NextJs/>
+  <img width=10% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png">NextJs/>
   <li><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />, Redux Toolkit</li>
   <li><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="photoReact" /></li>
     <li><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png" alt="photoReact" /></li>
