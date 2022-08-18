@@ -14,7 +14,7 @@
   <img width=6%  src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="photoReact" />
 
  <img width=6% src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png" alt="photoReact" />
- <img width=8% bottom=5% src="https://cdn0.iconfinder.com/data/icons/logos-21/40/CSS3-256.png" alt="photoReact" />
+ <img width=8% top=5% src="https://cdn0.iconfinder.com/data/icons/logos-21/40/CSS3-256.png" alt="photoReact" />
   <img  width=6% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
           <img width=6% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
  <img width=6% src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" />
