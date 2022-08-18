@@ -5,13 +5,13 @@
 
 
 <h3>Мой стэк</h3>
-  <div>  <img width=3% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png">NextJs/>
-<img width=3% src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />, Redux Toolkit
-  <img width=3%  src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="photoReact" />
+  <div>  <img width=6% src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png">NextJs/>
+<img width=6% src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />, Redux Toolkit
+  <img width=6%  src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="photoReact" />
  <img width=6% src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png" alt="photoReact" />
      <img width=6% src="https://cdn0.iconfinder.com/data/icons/logos-21/40/CSS3-256.png" alt="photoReact" />
         <img  width=6% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
-          <img width=3% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
+          <img width=6% src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="photoJs" />
             <img width=3% src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="photoJs" />
               <img  width=6% src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="photoJs" />
               <img  width=6% src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="photoJs" />
