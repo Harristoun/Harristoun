@@ -9,23 +9,25 @@
 
 <div>
  
-  <img width=4% src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
- <img width=4% src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="photoReact" />
-  <img  width=4% src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
-<img width=4% src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
-  <img width=4%  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
-  <img width=4% src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"/>
-     <img width=4% src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="photoJs" />
-   <img width=4% src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
-     <img width=4% src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" alt="photoJs" />
-      <img width=4% src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
-  <img width=4% src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
-  <img  width=4% src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
+  <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
+ <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="photoReact" />
+  <img align="left" width=40px src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
+<img align="left" width=40px src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
+  <img align="left" width=40px  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
+  <img align="left" width=40px src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"/>
+     <img align="left" width=40px src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="photoJs" />
+   <img align="left" width=40px src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
+     <img align="left" width=40px src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" alt="photoJs" />
+      <img align="left" width=40px src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
+  <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
+  <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
 
 </div>
 
 
-<hr>
+<br>
+<br>
+<br>
   <li>Next.Js</li>
   <li>React</li>
   <li>React Redux</li>
@@ -40,11 +42,13 @@
 
 
 <h2>I plan to study:</h2>
-<div>  <img  width=4% src="https://img.icons8.com/ios-filled/344/typescript.png" />
-    <img  width=4% src="https://img.icons8.com/windows/344/vuetify.png" />
-        <img  width=4% src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo.png" />
+<div>  <img align="left" width=40px src="https://img.icons8.com/ios-filled/344/typescript.png" />
+    <img align="left" width=40px src="https://img.icons8.com/windows/344/vuetify.png" />
+        <img align="left" width=40px src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo.png" />
 </div>
 <p />
+<br>
+<br>
   <li><b>Priority ⇢ </b> TypeScript</li>
   <li>Vue.js</li>
   <li>Bootstrap</li>
