@@ -57,6 +57,11 @@
     
   
   <h1>GitHub Stats:</h1>
+  <hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalds&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 
 <h2>Participation in projects</h2>
