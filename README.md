@@ -1,7 +1,7 @@
  
  <div align="center"> <div><h1 ><img align=center width=15%  src="https://cdn3.iconfinder.com/data/icons/human-resource-management-set-2/64/2-13-256.png" alt="photo" />   Hi there! My name is <a href="https://t.me/Abu_Harris">Khamzat </a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></div>
  </div> 
-<div align="center">  <h2>I'm a front-end developer🌱</h2></div>
+<div align="center">  <h2>I'm a front-end developer 🌱</h2></div>
 
   <br />
 
