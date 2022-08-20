@@ -23,6 +23,7 @@
   <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
   <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
   <img align="left" width=40px src="https://img.icons8.com/color/344/material-ui.png" />
+ <img align="left" width=40px src="https://img.icons8.com/color/344/tailwind_css.png" />
 
 </div>
 
