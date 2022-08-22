@@ -24,8 +24,9 @@
   <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
   <img align="left" width=40px src="https://img.icons8.com/color/344/material-ui.png" />
  <img align="left" width=40px src="https://img.icons8.com/color/344/tailwind_css.png" />
- <img align="left" width=40px src="https://img.icons8.com/color/344/tailwind_css.png" />
- <img align="left" width=40px src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" />
+ <img align="left" width=40px src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+ <img align="left" width=40px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+ 
  
 
 </div>
