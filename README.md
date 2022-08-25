@@ -29,7 +29,8 @@
 <br>
 <br>
 <br>
-<h3>
+<br>
+<ul>
   <li>Next.Js</li>
   <li>React</li>
   <li>React Redux</li>
@@ -40,9 +41,10 @@
   <li>React router dom v6</li>
   <li>DOM</li>
   <li>Webpack</li>
-  <hr>
-  </h3>
 
+  </ul>
+
+<br>
 
 <h2>I plan to study:</h2>
 <div>  <img align="left" width=40px src="https://img.icons8.com/ios-filled/344/typescript.png" />
