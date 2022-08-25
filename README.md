@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-<div>
+<h1>
   <li>Next.Js</li>
   <li>React</li>
   <li>React Redux</li>
@@ -41,7 +41,7 @@
   <li>DOM</li>
   <li>Webpack</li>
   <hr>
-  </div>
+  </h1>
 
 
 <h2>I plan to study:</h2>
