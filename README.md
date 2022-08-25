@@ -25,12 +25,11 @@
   <img align="left" width=40px src="https://img.icons8.com/color/344/material-ui.png" />
  <img align="left" width=40px src="https://img.icons8.com/color/344/tailwind_css.png" />
 </div>
-<p />
-
 
 <br>
 <br>
 <br>
+<div>
   <li>Next.Js</li>
   <li>React</li>
   <li>React Redux</li>
@@ -42,6 +41,7 @@
   <li>DOM</li>
   <li>Webpack</li>
   <hr>
+  </div>
 
 
 <h2>I plan to study:</h2>
