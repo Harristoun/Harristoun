@@ -22,8 +22,7 @@
       <img align="left" width=40px src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
   <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
   <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
-  <img align="left" width=40px src="https://img.icons8.com/color/344/material-ui.png" />
- <img align="left" width=40px src="https://img.icons8.com/color/344/tailwind_css.png" />
+
 </div>
 <br>
 <br>
@@ -50,6 +49,8 @@
 <div>  <img align="left" width=40px src="https://img.icons8.com/ios-filled/344/typescript.png" />
     <img align="left" width=40px src="https://img.icons8.com/windows/344/vuetify.png" />
         <img align="left" width=40px src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo.png" />
+          <img align="left" width=40px src="https://img.icons8.com/color/344/material-ui.png" />
+ <img align="left" width=40px src="https://img.icons8.com/color/344/tailwind_css.png" />
 </div>
 <p />
 <br>
