@@ -54,6 +54,7 @@
         <img align="left" width=40px src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-bootstrap-a-free-and-open-source-css-framework-logo-bold-tal-revivo.png" />
           <img align="left" width=40px src="https://img.icons8.com/color/344/material-ui.png" />
  <img align="left" width=40px src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-512.png" />
+ 
 </div>
 <p />
 <br>
@@ -61,6 +62,8 @@
   <li><b>Priority ⇢ </b> TypeScript</li>
   <li>Vue.js</li>
   <li>Bootstrap</li>
+    <li>Material UI</li>
+      <li>Tailwind</li>
 
     
   
