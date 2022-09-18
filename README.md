@@ -10,7 +10,7 @@
 
 <div>
  
-  <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
+  <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" href="https://html.com/" />
  <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="photoReact" />
   <img align="left" width=40px src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
 <img align="left" width=40px src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
