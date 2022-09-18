@@ -61,8 +61,9 @@
   <li><b>Priority ⇢ </b> TypeScript</li>
   <li>Vue.js</li>
   <li>Bootstrap</li>
+        <li>Tailwind</li>
     <li>Material UI</li>
-      <li>Tailwind</li>
+
 
     
   
