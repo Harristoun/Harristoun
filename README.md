@@ -30,16 +30,19 @@
 <br>
 <br>
 <ul>
-  <li>Next.Js</li>
+  <li>HTML5, CSS3, JavaScript ES6</li>
   <li>React</li>
   <li>React Redux</li>
-  <li>HTML5, CSS3, JavaScript ES6</li>
-
+  <li>Next.Js</li>
+  <li>React router dom v6</li>
+  <li>Webpack</li>
+  <li>Figma</li>
+  <li>Postman</li>
   <li>MongoDB</li>
   <li>ExpressJS, NodeJS, Mongoose</li>
-  <li>React router dom v6</li>
+  
   <li>DOM</li>
-  <li>Webpack</li>
+ 
 
   </ul>
 
