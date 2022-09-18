@@ -65,13 +65,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalds&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<h2>Participation in projects</h2>
-</hr>
-<h3>Soon...</h3>
-
 <h2>Conect with me:</h2>
 <a href="https://t.me/Harristoun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.facebook.com/profile.php?id=100016187117538"><img src="https://img.shields.io/badge/Facebbok-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white" /></a>
