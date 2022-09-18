@@ -75,3 +75,4 @@
 <h2>Conect with me:</h2>
 <a href="https://t.me/Harristoun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.facebook.com/profile.php?id=100016187117538"><img src="https://img.shields.io/badge/Facebbok-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://twitter.com/HarrisKetrin1"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
